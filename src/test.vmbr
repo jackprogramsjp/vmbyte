@@ -1,0 +1,9 @@
+global a b
+
+a eq 2
+b eq 2
+
+push a
+push b
+add
+print
